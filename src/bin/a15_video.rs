@@ -17,8 +17,7 @@ enum TicketType {
     VIP(f32, String),
     Standard(f32),
 }
-
-
+// test comment
 fn main() {
     // * Create one of each ticket and place into a vector
 
