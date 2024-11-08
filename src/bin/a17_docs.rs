@@ -12,9 +12,22 @@
 //   to uppercase and lowercase
 //   * Try searching for: to_uppercase, to_lowercase
 
+// * Utilize standard library functionality to
+//   transform the string to lowercase and uppercase
+
 /// here is some adding
 fn add(n1: i32, n2: i32) -> i32 {
     n1 + n2
 }
 fn main() {
+    let my_words = "this will repeat in different cases";
+    println!(
+        "{:?}, {:?}",
+        my_words.to_uppercase(),
+        my_words.to_lowercase()
+    );
+
+    if let asdfklasdf =  {
+
+    }
 }
